@@ -1,4 +1,5 @@
-Background Remover Pro
+Background Remover 
+
 A clean, minimal desktop application built with Python and Tkinter to remove
 backgrounds from images using rembg. The app supports drag-and-drop, batch
 processing, light/dark themes, multi-format outputs, language toggle (EN/TR),
@@ -48,8 +49,7 @@ Install dependencies with:
 pip install rembg pillow tkinterdnd2
 Getting Started
 1. Clone the repository:
-git clone https://github.com/your-username/BackgroundRemoverPro.git
-cd BackgroundRemoverPro
+git clone https://github.com/omerfarukertural/BackgroundRemove.git
 2. Install requirements:
 pip install rembg pillow tkinterdnd2
 3. Run the app:
